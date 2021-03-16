@@ -1,4 +1,4 @@
-# Growth Mindset
+# GROWTH MINDSET
 
 ### God created the world that changes over time and gave us  **the Strength to influence it.**
 
