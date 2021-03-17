@@ -1,14 +1,12 @@
-# GROWTH MINDSET
+Hello, my name is Yahia AlQous
 
-### God created the world that changes over time and gave us  **the Strength to influence it.**
+I am an architect who graduated in 2020, worked for five months and then start the ASAC "Advanced Software Development" course.
 
-So, we have to adapt and keep pace with what human knowledge and skills have reached today. This fact led me to be a student all my life and keep my mind growing every day.
-
-
-
-> *"Love challenges, be intrigued by mistakes, enjoy effort and keep on learning" - Carol Dweck*
-
-Don't say: ~~I can't do this~~ but say: I can't yet.
+I am looking toward the future and trying to find myself in the field of developing architecture with technology.
 
 
-![You Can](https://i.pinimg.com/originals/23/be/35/23be3506ae373d733f9e23c6c59f7c84.jpg)
+| Assignment |              Link                      |
+|------------|----------------------------------------|
+|   read01   | [The Coder's Computer](read01.md)      |
+|   read02a  | [Learning Markdown](read02a.md)        | 
+|   read02b  | [Revisions and the Cloud](read02b.md)  |
