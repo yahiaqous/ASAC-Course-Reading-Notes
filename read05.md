@@ -5,6 +5,8 @@
 
 |    **Comparison Operator**      |                             **Task**                                   |
 |---------------------------------|------------------------------------------------------------------------|
+| **Equal to ==**                 | Compare two values to see if they are have the same value              |
+|                                 |                                                                        |
 | **Strict Equal to ===**         | Compare two values to see if they have the same value and datatype     |
 |                                 |                                                                        |
 | **Not Equal to !=**             | Compare two values to see if they are not the same                     |
