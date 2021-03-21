@@ -1,11 +1,11 @@
 ## Comparison Operators 
 
-*Used to evaluate a situation by comparing one value to another and the result will ba a **Boolean** (True/False).*
+*Used to evaluate a situation by comparing one value to another and the result will be a **Boolean** (True/False).*
 
 
-|    **Compareson Operator**      |                             **Task**                                   |
+|    **Comparison Operator**      |                             **Task**                                   |
 |---------------------------------|------------------------------------------------------------------------|
-| **Strict Equal to ===**         | Compare two values to see if they are have the same value and datatype |
+| **Strict Equal to ===**         | Compare two values to see if they have the same value and datatype     |
 |                                 |                                                                        |
 | **Not Equal to !=**             | Compare two values to see if they are not the same                     |
 |                                 |                                                                        |
@@ -25,14 +25,14 @@
 
 ## Logical Operators
 
-*Used to compare the results of more than one comparison operators.*
+*Used to compare the results of more than one comparison operator.*
 
 
 |    **Logical Operator**      |                       **Task**                          |
 |------------------------------|---------------------------------------------------------|
 | **Logical And &&**           | Tests if both expressions evaluate to true              |
 |                              |                                                         |
-| **Logical Or**               | Tests if one of the both expressions evaluates to true  |
+| **Logical Or**               | Tests if one of both expressions evaluates to true      |
 |                              |                                                         |
 | **Logical Not !**            | Inverts the Boolean value                               |
 |                              |                                                         |
@@ -47,19 +47,19 @@
 
 |    **Loop**     |                                            **Task**                                                      |
 |-----------------|----------------------------------------------------------------------------------------------------------|
-| **FOR**         | The code will running a specific number of times                                                         |
+| **FOR**         | The code will be running a specific number of times                                                      |
 |                 |                                                                                                          |
-| **WHILE**       | The code will running as long as the condition is True                                                   |
+| **WHILE**       | The code will be running as long as the condition is True                                                |
 |                 |                                                                                                          |
 | **DO WHILE**    | The code will run at least once even the condition is false and running as long as the condition is True |
 |                 |                                                                                                          |
 
 **For loop** is made up of three statements:
 
-- **Initialization** : Create a variable.
+- **Initialization**: Create a variable.
 
-- **Condition** : Made of Comparison or Logical operator statement.
+- **Condition**: Made of Comparison or Logical operator statement.
 
-- **Update** : The change that will happen every time after the loop code finish.
+- **Update**: The change that will happen every time after the loop code finish.
 
 **While loop** is made up of a condition statement only.
