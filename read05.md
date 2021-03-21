@@ -5,7 +5,7 @@
 
 |    **Comparison Operator**      |                             **Task**                                   |
 |---------------------------------|------------------------------------------------------------------------|
-| **Equal to ==**                 | Compare two values to see if they are have the same value              |
+| **Equal to ==**                 | Compare two values to see if they have the same value                  |
 |                                 |                                                                        |
 | **Strict Equal to ===**         | Compare two values to see if they have the same value and datatype     |
 |                                 |                                                                        |
@@ -13,11 +13,11 @@
 |                                 |                                                                        |
 | **Strict Not Equal to !==**     | Compare two values to see if they are not the same and datatype        |
 |                                 |                                                                        |
-| **Greater than >**              | Check if the left number is greater than the right number              |
+| **Greater than >**              | Check if the left number is greater than to the right number           |
 |                                 |                                                                        |
 | **Greater than or Equal to >=** | Check if the left number is greater than or equal the right number     |
 |                                 |                                                                        |
-| **Less than <**                 | Check if the left number is less than the right number                 |
+| **Less than <**                 | Check if the left number is less than to the right number              |
 |                                 |                                                                        |
 | **Less than or Equal to <=**    | Check if the left number is less than or equal the right number        |
 |                                 |                                                                        |
