@@ -62,4 +62,8 @@
 
 - **Update**: The change that will happen every time after the loop code finish.
 
+![ForLoop1](Pictures/For Loop 1.jpg)
+
+![ForLoop2](Pictures/For Loop 2.jpg)
+
 **While loop** is made up of a condition statement only.
