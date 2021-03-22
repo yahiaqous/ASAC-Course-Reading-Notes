@@ -12,3 +12,4 @@ I am looking toward the future and trying to find myself in the field of develop
 |   read03   | [Structure web pages with HTML](read03.md)  |
 |   read04a  | [Programming with JavaScript](read04a.md)   |
 |   read05   | [Operators and Loops](read05.md)            |
+|   read06   | [Design web pages with CSS](read06.md)      |
