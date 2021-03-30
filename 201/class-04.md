@@ -51,17 +51,17 @@ By using fixed pixel sizes
 
 **Advantages**
 
-● Pixel values are accurate at controlling size and positioning of elements
-● The designer has far greater control over the appearance and position of items on the page
-● lengths of lines of text can be controlled regardless of the size of the user's window
-● The size of an image will always remain the same relative to the rest of the page
+* Pixel values are accurate at controlling size and positioning of elements
+* The designer has far greater control over the appearance and position of items on the page
+* lengths of lines of text can be controlled regardless of the size of the user's window
+* The size of an image will always remain the same relative to the rest of the page
 
 **Disadvantages**
 
-● Boxes can end up with big gaps around the edge of a page
-● The page can look smaller and text can be harder to read if the user's screen is higher in resolution 
-● If a user increases font sizes, text might not fit into the allotted spaces
-● The design works best on devices that have a site or resolution similar to that of desktop or laptop computers
+* Boxes can end up with big gaps around the edge of a page
+* The page can look smaller and text can be harder to read if the user's screen is higher in resolution 
+* If a user increases font sizes, text might not fit into the allotted spaces
+* The design works best on devices that have a site or resolution similar to that of desktop or laptop computers
 
 
 ### Liquid Layouts
@@ -69,15 +69,15 @@ By using percentage sizes
 
 **Advantages**
 
-● Pages expand to fill the entire browser window so there are no spaces around the page on a large screen
-● If the user has a small window, the page can contract to fit it without the user having to scroll to the side
-● The design is tolerant of users setting font sizes larger than the designer intended
+* Pages expand to fill the entire browser window so there are no spaces around the page on a large screen
+* If the user has a small window, the page can contract to fit it without the user having to scroll to the side
+* The design is tolerant of users setting font sizes larger than the designer intended
 
 **Disadvantages**
 
-● The design can look very different than designer intended, with unexpected gaps around certain elements
-● If the user has a very narrow window, words may be squashed and can end up with few words on each line.
-● If a fixed width item is in a box that is too small to hold it, the item can overflow over the text.
+* The design can look very different than designer intended, with unexpected gaps around certain elements
+* If the user has a very narrow window, words may be squashed and can end up with few words on each line.
+* If a fixed width item is in a box that is too small to hold it, the item can overflow over the text.
 
 
 ### Layout grids
@@ -86,10 +86,10 @@ By using percentage sizes
 
 **Advantages of using grids:**
 
-● Creates a continuity between different pages which may use different designs
-● Helps users predict where to find information on various pages
-● Makes it easier to add new content to the site in a consistent way
-● Helps people collaborate on the design of a site in a consistent way
+* Creates a continuity between different pages which may use different designs
+* Helps users predict where to find information on various pages
+* Makes it easier to add new content to the site in a consistent way
+* Helps people collaborate on the design of a site in a consistent way
 
 
 ### CSS Frameworks
@@ -97,13 +97,13 @@ Libraries of code that contain common tasks, such as creating layout grids, styl
 
 **Advantages**
 
-● They save coder from repeatedly writing code for the same tasks
-● They will have been tested across different browser versions (which helps avoid browser bugs)
+* They save coder from repeatedly writing code for the same tasks
+* They will have been tested across different browser versions (which helps avoid browser bugs)
 
 **Disadvantages**
 
-● They often require use class names in HTML code that only control the presentation of the page
-● They often contain more code than coder need for particular web page in order to satisfy a wide variety of needs
+* They often require use class names in HTML code that only control the presentation of the page
+* They often contain more code than coder need for particular web page in order to satisfy a wide variety of needs
 
 **960.gs CSS Framework:** A website provides a style sheet that can included in HTML page, also provides templates that can downloaded to help design the pages using 12 or 16 column grid
 
