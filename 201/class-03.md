@@ -2,11 +2,11 @@
 
 ### Types of lists
 
-|     **List Type**     |   **Tag**    |                            **Function**                                      |
-|-----------------------|--------------|------------------------------------------------------------------------------|
-|   **Ordered lists**   | ***< ol >*** | where each item in the list is numbered                                      |
-| **Unordered lists**   | ***< ul >*** | that begin with a bullet point                                               |
-| **Definition lists**  | ***< dl >*** | made up of a set of terms along with the definitions for each of those terms |
+|    **List Type**     |    **Tag**   |                           **Function**                                       |
+|----------------------|--------------|------------------------------------------------------------------------------|
+| **Ordered lists**    | ***< ol >*** | where each item in the list is numbered                                      |
+| **Unordered lists**  | ***< ul >*** | that begin with a bullet point                                               |
+| **Definition lists** | ***< dl >*** | made up of a set of terms along with the definitions for each of those terms |
 
 
 Lists can be nested inside each other
