@@ -65,14 +65,14 @@ There are many ways to specify colors in CSS:
 
 
 
-|        **Selector**        |                                 **Meaning**                                        |            **Form**               |
-|----------------------------|------------------------------------------------------------------------------------|-----------------------------------|
-| ***[]***     **Existence** | Matches a specific attribute (whatever its value)                                  | ***element [ attr ]***            |
-| ***[ = ]***  **Equality**  | Matches a specific attribute with a specific value                                 | ***element [ attr =  "value" ]*** |
-| ***[ ~= ]*** **Space**     | Matches a specific attribute whose value appears in a spaceseparated list of words | ***element [ attr ~= "value" ]*** |
-| ***[ ^= ]*** **Prefix**    | Matches a specific attribute whose value begins with a specific string             | ***element [ attr ^ "letter" ]*** |
-| ***[ *= ]*** **Substring** | Matches a specific attribute whose value contains a specific substring             | ***element [ attr * "letter" ]*** |
-| ***[ $= ]*** **Suffix**    | Matches a specific attribute whose value ends with a specific string               | ***element [ attr $ "letter" ]*** |
+|        **Selector**        |                                 **Meaning**                                         |            **Form**               |
+|----------------------------|-------------------------------------------------------------------------------------|-----------------------------------|
+| ***[]***     **Existence** | Matches a specific attribute (whatever its value)                                   | ***element [ attr ]***            |
+| ***[ = ]***  **Equality**  | Matches a specific attribute with a specific value                                  | ***element [ attr =  "value" ]*** |
+| ***[ ~= ]*** **Space**     | Matches a specific attribute whose value appears in a space-separated list of words | ***element [ attr ~= "value" ]*** |
+| ***[ ^= ]*** **Prefix**    | Matches a specific attribute whose value begins with a specific string              | ***element [ attr ^ "letter" ]*** |
+| ***[ *= ]*** **Substring** | Matches a specific attribute whose value contains a specific substring              | ***element [ attr * "letter" ]*** |
+| ***[ $= ]*** **Suffix**    | Matches a specific attribute whose value ends with a specific string                | ***element [ attr $ "letter" ]*** |
 
  
 
