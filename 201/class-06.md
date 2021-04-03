@@ -7,10 +7,10 @@ In an object, variables and functions take on new names:
 
 properties and methods have a name and a value called **keys**. An object cannot have two keys with the same name
 
-### Creating an object
+## Creating an object
 **Literal notation** is the easiest and most popular way to create objects, where the object is the curly braces and their contents and stored in a variable. Each key separated from its value using a *colon (:)*, and each property and method separated with a *comma (,)*
 
-### Accessing an object
+## Accessing an object
 Properties and methods of an object can be accessed using *dot notation (.)* after the object name then followed its name. Properties can also be accessed using *square brackets []*
 
 
@@ -27,11 +27,11 @@ DOM tree consists of four main types of nodes:
 * **Attribute Nodes** part of the element that carries them, not children
 * **Text Nodes** cannot have children and are always a new branches of the DOM tree
 
-![Dom Tree](Pictures/DOM Tree.JPG)
+![Dom Tree](https://www.freetutorialsplus.com/javascript-tutorial/images/html-dom-illustration.png)
 
 Each node is an object with methods and properties.
 
-### Accessing Eements
+## Accessing Eements
 
 Methods that return a single element node:
 * ***getElementByld ('id')***
