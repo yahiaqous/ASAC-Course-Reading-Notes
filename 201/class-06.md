@@ -25,7 +25,7 @@ DOM tree consists of four main types of nodes:
 * **The Document Node** the starting point for all visits to the DOM tree
 * **Element Nodes** its attributes and text nodes can be accessed through it
 * **Attribute Nodes** part of the element that carries them, not children
-* **Text Nodes** cannot have children and are always a new branches of the DOM tree
+* **Text Nodes** cannot have children and are always new branches of the DOM tree
 
 ![Dom Tree](https://www.freetutorialsplus.com/javascript-tutorial/images/html-dom-illustration.png)
 
