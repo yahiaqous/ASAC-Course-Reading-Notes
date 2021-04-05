@@ -27,9 +27,9 @@
 
 Object instructor can use a function as a template for creating several objects that represent similar things
 
-![Function-Template](Pictures/Function-Template.JPG)
+![Function-Template](../Pictures/Function-Template.JPG)
 
-![Instance-Objects](Pictures/Instance-Objects.JPG)
+![Instance-Objects](../Pictures/Instance-Objects.JPG)
 
 Objects created with literal notation are good:
 * When storing/transmitting data between applications
@@ -47,4 +47,4 @@ Objects created with constructors are good:
 
 **Object Model**: A group of objects, each of which represents related things from the real world, together they form a model of something larger
 
-![Object-Model](Pictures/Object-Model.JPG)
+![Object-Model](../Pictures/Object-Model.JPG)
