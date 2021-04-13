@@ -34,5 +34,5 @@ I am looking toward the future and trying to find myself in the field of develop
 |   Read11   | [Assorted Topics](201/class-11.md)                                               |
 |   Read12   | [Docs for HTML Element & Chart](201/class-12.md)                                 |
 |   Read13   | [Local Storage](201/class-13.md)                                                 |
-|   Read14a  | [CSS Transforms, Transitions, and Animations](201/class-14a.md)                  |
+|   Read13b  | [CSS Transforms, Transitions, and Animations](201/class-13b.md)                  |
 |   Read14b  | [What Google Learned About Teams](201/class-14b.md)                              |
