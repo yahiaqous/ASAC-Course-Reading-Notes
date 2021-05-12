@@ -1,10 +1,6 @@
-Hello, my name is Yahia AlQous
+This site is all about reading assignment notes on the ASAC Advanced Web Development course.
 
-I am an architect who graduated in 2020, worked for five months and then start the ASAC "Advanced Software Development" course.
-
-I am looking toward the future and trying to find myself in the field of developing architecture with technology.
-
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 | Assignment |                    Link                         |
 |------------|-------------------------------------------------|
@@ -17,7 +13,7 @@ I am looking toward the future and trying to find myself in the field of develop
 |   Read06   | [Design web pages with CSS](102/read06.md)      |
 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 | Assignment |                                     Link                                         |
 |------------|----------------------------------------------------------------------------------|
@@ -36,3 +32,11 @@ I am looking toward the future and trying to find myself in the field of develop
 |   Read13   | [Local Storage](201/class-13.md)                                                 |
 |   Read13b  | [CSS Transforms, Transitions, and Animations](201/class-13b.md)                  |
 |   Read14b  | [What Google Learned About Teams](201/class-14b.md)                              |
+
+
+
+## Code 301 - Intermediate Software Development
+
+
+
+## Code 401 - Advanced Software Development
