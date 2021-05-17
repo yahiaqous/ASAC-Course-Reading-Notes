@@ -37,6 +37,11 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 
 ## Code 301 - Intermediate Software Development
 
+| Assignment |                                     Link                                         |
+|------------|----------------------------------------------------------------------------------|
+|   Read01   | [Introduction to React and Components](301/class-01.md)                          |
+|   Read02   | [State and Props](301/class-02.md)                                               |
+
 
 
 ## Code 401 - Advanced Software Development
