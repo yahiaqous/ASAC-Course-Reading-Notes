@@ -41,6 +41,9 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 |------------|----------------------------------------------------------------------------------|
 |   Read01   | [Introduction to React and Components](301/class-01.md)                          |
 |   Read02   | [State and Props](301/class-02.md)                                               |
+|   Read03   | [Passing Functions as Props](301/class-03.md)                                    |
+
+
 
 
 
