@@ -44,6 +44,7 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 |   Read03   | [Passing Functions as Props](301/class-03.md)                                    |
 |   Read04   | [React and Forms](301/class-04.md)                                               |
 |   Read05   | [Thinking in React](301/class-05.md)                                             |
+|   Read11   | [Authentication](301/class-11.md)                                                |
 
 
 
