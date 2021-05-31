@@ -46,7 +46,7 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 |   Read05   | [Thinking in React](301/class-05.md)                                             |
 |   Read11   | [Authentication](301/class-11.md)                                                |
 |   Read12   | [Mongo and Mongoose](301/class-12.md)                                            |
-
+|   Read13   | [CRUD](301/class-13.md)                                                          |
 
 
 
