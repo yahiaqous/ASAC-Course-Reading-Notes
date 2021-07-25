@@ -1,3 +1,5 @@
+# Reading Notes
+
 This site is all about reading assignment notes on the ASAC Advanced Web Development course.
 
 ## Code 102 - Intro to Software Development

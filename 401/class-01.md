@@ -36,4 +36,4 @@ Big O specifically describes the worst-case scenario and can be used to describe
 
 Assignment never copies data and this is known as **mutable aliasing**
 
-Change is unclear, changing an integer act as **rebinding**, while changing a list act as **mutating**.
+Change is unclear, changing an integer act as **rebinding** while changing a list act as **mutating**.
