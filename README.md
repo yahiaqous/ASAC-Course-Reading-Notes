@@ -49,7 +49,8 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 
 ## Code 401 - Advanced Software Development
 
-| Assignment | Link                                   |
-| ---------- | -------------------------------------- |
-| Read01     | [Topic](401/class-01.md)               |
-| Read02     | [Testing and Modules](401/class-02.md) |
+| Assignment | Link                                               |
+| ---------- | -------------------------------------------------- |
+| Read01     | [Big O Notation,Names and Values](401/class-01.md) |
+| Read02     | [Testing and Modules](401/class-02.md)             |
+| Read04     | [Classes and Objects, Pytest](401/class-04.md)     |
