@@ -55,4 +55,5 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read02     | [Testing and Modules](401/class-02.md)             |
 | Read04     | [Classes and Objects, Pytest](401/class-04.md)     |
 | Read05     | [Linked Lists](401/class-05.md)                    |
-| Read06     | [Game of Greed 1](401/class-06.md)                 |
+| Read06     | [Random Module & Risk Analysis](401/class-06.md)   |
+| Read07     | [Python Scope & Big O Notation](401/class-07.md)   |

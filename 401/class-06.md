@@ -1,4 +1,4 @@
-# Game of Greed 1
+# Random Module & Risk Analysis
 
 ## How to use the Random Module in Python
 
