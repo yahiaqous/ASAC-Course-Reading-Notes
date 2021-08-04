@@ -59,3 +59,4 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read07     | [Python Scope & Big O Notation](401/class-07.md)                                    |
 | Read08     | [List Comprehensions & Python Decorators](401/class-08.md)                          |
 | Read09     | [Dunder Methods & Probability & Mathematical statistics functions](401/class-09.md) |
+| Read10     | [Stacks and Queues](401/class-10.md)                                                |
