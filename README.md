@@ -49,12 +49,13 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 
 ## Code 401 - Advanced Software Development
 
-| Assignment | Link                                                       |
-| ---------- | ---------------------------------------------------------- |
-| Read01     | [Big O Notation,Names and Values](401/class-01.md)         |
-| Read02     | [Testing and Modules](401/class-02.md)                     |
-| Read04     | [Classes and Objects, Pytest](401/class-04.md)             |
-| Read05     | [Linked Lists](401/class-05.md)                            |
-| Read06     | [Random Module & Risk Analysis](401/class-06.md)           |
-| Read07     | [Python Scope & Big O Notation](401/class-07.md)           |
-| Read08     | [List Comprehensions & Python Decorators](401/class-08.md) |
+| Assignment | Link                                                                                |
+| ---------- | ----------------------------------------------------------------------------------- |
+| Read01     | [Big O Notation,Names and Values](401/class-01.md)                                  |
+| Read02     | [Testing and Modules](401/class-02.md)                                              |
+| Read04     | [Classes and Objects, Pytest](401/class-04.md)                                      |
+| Read05     | [Linked Lists](401/class-05.md)                                                     |
+| Read06     | [Random Module & Risk Analysis](401/class-06.md)                                    |
+| Read07     | [Python Scope & Big O Notation](401/class-07.md)                                    |
+| Read08     | [List Comprehensions & Python Decorators](401/class-08.md)                          |
+| Read09     | [Dunder Methods & Probability & Mathematical statistics functions](401/class-09.md) |
