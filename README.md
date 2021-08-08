@@ -61,4 +61,4 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read09     | [Dunder Methods & Probability & Mathematical statistics functions](401/class-09.md) |
 | Read10     | [Stacks and Queues](401/class-10.md)                                                |
 | Read11     | [Data Analysis with Python (Jupyter Lab & NumPy)](401/class-11.md)                  |
-| Read12     | [Data Visualization (Matplotlib & Bokeh)](401/class-12.md)                          |
+| Read14     | [Data Visualization (Matplotlib & Bokeh)](401/class-14.md)                          |
