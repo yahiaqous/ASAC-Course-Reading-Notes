@@ -65,4 +65,4 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read14     | [Data Visualization (Matplotlib & Bokeh)](401/class-14.md)                          |
 | Read15     | [Trees](401/class-15.md)                                                            |
 | Read16     | [Machine Learning Intro](401/class-16.md)                                           |
-| Read16     | [Web Scraping](401/class-17.md)                                                     |
+| Read17     | [Web Scraping](401/class-17.md)                                                     |
