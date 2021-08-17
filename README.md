@@ -67,3 +67,4 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read16     | [Machine Learning Intro](401/class-16.md)                                           |
 | Read17     | [Web Scraping](401/class-17.md)                                                     |
 | Read18     | [Cryptography](401/class-18.md)                                                     |
+| Read19     | [Automation](401/class-19.md)                                                       |
