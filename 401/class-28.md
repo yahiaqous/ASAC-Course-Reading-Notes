@@ -44,7 +44,7 @@ The main things that Django's form handling does are:
 
 - Once all actions are complete, redirect the user to another page.
 
-How to import forms from djang?
+How to import forms from django?
 
         from django import forms
 
