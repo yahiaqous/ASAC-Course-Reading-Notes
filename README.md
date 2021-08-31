@@ -70,3 +70,4 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read19     | [Automation](401/class-19.md)                                                       |
 | Read27     | [Django Models](401/class-27.md)                                                    |
 | Read28     | [Django CRUD and Forms](401/class-28.md)                                            |
+| Read29     | [Django Custom User](401/class-29.md)                                               |
