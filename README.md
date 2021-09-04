@@ -72,3 +72,4 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read28     | [Django CRUD and Forms](401/class-28.md)                                            |
 | Read29     | [Django Custom User](401/class-29.md)                                               |
 | Read30     | [Hash Tables](401/class-30.md)                                                      |
+| Read31     | [Django REST Framework & Docker](401/class-31.md)                                   |
