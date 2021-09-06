@@ -74,3 +74,4 @@ This site is all about reading assignment notes on the ASAC Advanced Web Develop
 | Read30     | [Hash Tables](401/class-30.md)                                                      |
 | Read31     | [Django REST Framework & Docker](401/class-31.md)                                   |
 | Read32     | [Permissions & Postgresql](401/class-32.md)                                         |
+| Read33     | [Authentication & Production Server](401/class-33.md)                               |
